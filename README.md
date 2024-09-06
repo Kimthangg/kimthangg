@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=kimthangg)
+![](https://komarev.com/ghpvc/?username=kimthangg&style=flat-square&label=Lượt+xem)
 <!--
 **Kimthangg/kimthangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
